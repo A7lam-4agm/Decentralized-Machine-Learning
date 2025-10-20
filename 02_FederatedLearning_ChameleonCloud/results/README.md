@@ -1,1 +1,1 @@
-Add FL simulation results (CNN, MLP, and learning rate analysis)
+delete results file
