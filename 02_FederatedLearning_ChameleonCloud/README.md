@@ -182,8 +182,9 @@ curl http://localhost:8080/health
 
 ✅ Working image classification
 
+~~~
 Live Application: http://192.5.86.218:8080
-
+~~~
 
 - **Name**: Ahlam Abu Mismar
 - **Course**: CS 595-003
